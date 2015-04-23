@@ -1,6 +1,6 @@
 # ocesaulo.github.io
 
-Repo for OCESAULO GitHub pages located at: (https://ocesaulo.github.io/)
+Repo for OCESAULO GitHub pages located at https://ocesaulo.github.io/
 
 # Direct links
 
